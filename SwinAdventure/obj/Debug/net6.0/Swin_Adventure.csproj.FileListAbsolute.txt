@@ -1,0 +1,5 @@
+C:\Users\Admin\RiderProjects\Swin_Adventure\Swin_Adventure\obj\Debug\net6.0\Swin_Adventure.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\Swin_Adventure\Swin_Adventure\obj\Debug\net6.0\Swin_Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\Swin_Adventure\Swin_Adventure\obj\Debug\net6.0\Swin_Adventure.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\Swin_Adventure\Swin_Adventure\obj\Debug\net6.0\Swin_Adventure.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\Swin_Adventure\Swin_Adventure\obj\Debug\net6.0\Swin_Adventure.csproj.CoreCompileInputs.cache
